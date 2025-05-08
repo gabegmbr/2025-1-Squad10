@@ -1,6 +1,6 @@
 ---
-name: Tarefa
-about: Crie o relatório de uma tarefa
+name: 📝 Tarefa
+about: Crie o relatório de uma tarefa.
 title: ''
 labels: ''
 assignees: ''
